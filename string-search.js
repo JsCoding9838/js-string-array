@@ -17,7 +17,6 @@ for(const product of products){
         // output.push(product);
     };
 }
-// console.log(output);
 
 // includes
 for(const product of products){
@@ -25,7 +24,6 @@ for(const product of products){
         // output.push(product);
     }
 }
-// console.log(output);
 
 // starts with
 for(const product of products){
@@ -33,7 +31,6 @@ for(const product of products){
         // output.push(product);
     }
 }
-// console.log(output);
 
 // ends with
 for(const product of products){
@@ -41,4 +38,4 @@ for(const product of products){
         output.push(product);
     }
 }
-console.log(output);
+// console.log(output);
